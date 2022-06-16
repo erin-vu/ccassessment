@@ -2,6 +2,10 @@
 
 ## This is the First Thing you Should Read
 
+Read this Readme from top to bottom
+
+## Purpose
+
 This project has 3 purposes.
 
 1. Motivation: To give you a feeling for the kind of work you will be doing with us and help you decde if this role is right for you. The best way to know if this work is right for you is if you find this project **fun**. 
@@ -41,3 +45,6 @@ if you are doing this locally you can just
 ```
 (env_ds) you@you:/path/to/buddy$ jupyter notebook
 ```
+
+4. your notebook environment should automatically open up as http://localhost:8888/tree where you should click and open up START_PROJECT.ipynb and read the Questions within that notebook to complete this project. 
+
