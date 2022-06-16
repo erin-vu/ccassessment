@@ -1,5 +1,7 @@
 # buddy
 
+<img src="https://www.care.coach/uploads/9/8/5/0/9850803/published/final-care-coach-0970.jpg">
+
 ## This is the First Thing you Should Read
 
 This project has 3 purposes.
