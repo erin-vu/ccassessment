@@ -7,3 +7,5 @@ uvicorn
 fastapi
 ipywidgets
 jupyterlab
+matplotlib
+seaborn

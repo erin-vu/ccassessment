@@ -1,12 +1,16 @@
 # buddy
 
-<img src="https://www.care.coach/uploads/9/8/5/0/9850803/published/final-care-coach-0970.jpg">
-
 ## This is the First Thing you Should Read
 
 This project has 3 purposes.
 
-1. To give you a feeling for the kind of work you will be doing with us and help you decde if this role is right for you. The best way to know is if you find this project **fun**
+1. Motivation: To give you a feeling for the kind of work you will be doing with us and help you decde if this role is right for you. The best way to know if this work is right for you is if you find this project **fun**. 
+
+<img src="https://www.care.coach/uploads/9/8/5/0/9850803/published/final-care-coach-0970.jpg">
+
+2. Engineering: Although there is no perfect way to assess engineering capabilities generally or specifically, some atttempt is needed, as this role requires both a conceptual and implementation level understanding of machine learning and natural language processing. 
+
+3. Design: Sharing of code is inevitable, therefore it is unavoidable that some candidates will have an unfair, early advantage, introduction to the project prior to the interview. However, technical communication is harder to cheat on and an important part of this demonstration. The intuitiveness of the code, modularity of the functions and classes, absence of unnecessary confusing code, clear documentation and the ability to explain to another engineer such that they have as much control and understanding of the codebase as the original creator, are probably the most important skills this project is meant to reveal. 
 
 ## Setting up a Data Science Environment
 
