@@ -1,0 +1,9 @@
+numpy==1.21.4
+pandas==1.2.2
+torch==1.10.0
+torchsummary==1.5.1
+transformers==4.15.0
+uvicorn
+fastapi
+ipywidgets
+jupyterlab
