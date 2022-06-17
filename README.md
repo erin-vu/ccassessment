@@ -48,7 +48,7 @@ if you are doing this locally you can just
 (env_ds) you@you:/path/to/buddy$ jupyter notebook
 ```
 
-4. your notebook environment should automatically open up as http://localhost:8888/tree where you should click and open up START_PROJECT.ipynb and read the Questions within that notebook to complete this project. 
+4. your notebook environment should automatically open up as http://localhost:8888/tree where you should click and open up [START_PROJECT.ipynb](START_PROJECT.ipynb) and read the Questions within that notebook to complete this project. 
 
 ## How to Submit this Project
 
