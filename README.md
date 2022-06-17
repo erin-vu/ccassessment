@@ -18,6 +18,8 @@ This project has 3 purposes.
 
 ## Setting up a Data Science Environment
 
+Fork this repository to your own GitHub and keep the most updated version there.
+
 I am using python3.8.13 in macOS Montery Version 12.0.1, but these setup instructions should work as is or with minor edits on most python3 and linux combinations. If you dont have python 3.8 there are many ways to install it, I used [homebrew](https://formulae.brew.sh/formula/python@3.8) and followed the instructions at the end of the download. You have to restart your terminal for the changes to take effect. 
 
 You also need the header files and static libraries for python dev
@@ -48,3 +50,6 @@ if you are doing this locally you can just
 
 4. your notebook environment should automatically open up as http://localhost:8888/tree where you should click and open up START_PROJECT.ipynb and read the Questions within that notebook to complete this project. 
 
+## How to Submit this Project
+
+email the GitHub URL link for your forked project to carson [at] care [dot] coach 
