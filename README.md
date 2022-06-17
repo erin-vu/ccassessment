@@ -53,3 +53,9 @@ if you are doing this locally you can just
 ## How to Submit this Project
 
 email the GitHub URL link for your forked project to carson [at] care [dot] coach 
+
+## Frequently Asked Questions
+
+1. how long does this project take? 
+
+The project is meant to take about 4 hours total for someone is who is already very familiar with the NLP tools and concepts used here. If you are not already familiar with PyTorch, that is ok. I think if you have a strong python, data science and machine learning background, you can teach yourself most of this within the same free weekend that you use to learn and finish the project, or be able to finish this within the week working on it an hour each night of the week. If you have no NLP or ML background, it is hard to estimate how much longer for you this will take. 
