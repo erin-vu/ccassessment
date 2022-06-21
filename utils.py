@@ -49,6 +49,19 @@ class BaseAgent(torch.nn.Module):
         return generated_text
     
     def memorize(self, prompt, num_epochs = 3):
+
+        """ This is a rudimentary training loop
+        that will train the agent to learn one
+        sequence, the prompt. With enough epochs, this should
+        result in memorizing the sequence, which is why this
+        class method was names memorize. 
+        There is nothing returned because the model attribute is modified inplace. 
+
+        Args:
+            prompt (string): the text to be learned
+            num_epochs (int): the number of times we cycle though the training data, only 1 sample in this case
+
+        """
         
         prompt_dic = self.tokenizer(prompt,return_tensors="pt")
         prompt_ids = prompt_dic.input_ids
