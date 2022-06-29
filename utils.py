@@ -24,7 +24,7 @@ class BaseAgent(torch.nn.Module):
         
         if self.num_gpus > 1:
             self.model.parallelize()
-        else:
+        elif self.num_gpus == 1:
             self.model = self.model.cuda()
         
     def get_response(self, prompt, max_len = 32):
