@@ -70,6 +70,7 @@ class BaseAgent(torch.nn.Module):
         
         if self.num_gpus > 0:
             prompt_ids = prompt_ids.cuda()
+            prompt_mask = prompt_mask.cuda()
             
         source_ids = prompt_ids[:,:-1]
         target_ids = prompt_ids[:,1:]
